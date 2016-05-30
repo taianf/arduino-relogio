@@ -1,2 +1,1 @@
-# arduino-relogio
-Relógio no arduino para ENGC50
+# Relógio no arduino para ENGC50
